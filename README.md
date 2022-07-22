@@ -3,7 +3,9 @@
 <h4 align="center"> Created by Cam Gould for the University of Toronto Fintech BootCamp </h2>
 
 <p align="center">
-  <img src="https://github.com/CamGould/TimeS4ries_Analysis/blob/main/Supplemental/unit-10-readme-photo.png.jpeg?raw=true"/>
+  <img
+    src="https://cutewallpaper.org/23/aesthetic-japan-street-wallpaper/15812072.jpg"
+  >
 </p>
 
 
