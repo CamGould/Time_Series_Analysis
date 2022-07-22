@@ -15,4 +15,4 @@ The financial departments of large companies often have to make foreign currency
 In this assignment, I will test multiple time series tools that you have been learned in order to predict future movements in the value of the Canadian dollar versus the Japanese yen.
 <br>
 ### Project Files 
-[a relative link](other_file.md)
+[a relative link]([1]Time_Series_Forecasting.ipynb)
