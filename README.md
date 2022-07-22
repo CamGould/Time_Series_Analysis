@@ -30,5 +30,13 @@ In this notebook, I will load historical CAD-JPY exchange rate data and apply ti
 <br>
 The outline of this notebook will be as follows:
 <br>
-1. Plotting the **Settle price** to check for *long or short-term* patterns.
-  1. Are there any patterns, long-term and/or short.
+1. Plotting the **"Settle" price** to check for *long or short-term* patterns.
+    1. Are there any patterns, long-term and/or short?
+2. Decomposition using a **Hodrick-Prescott Filter** (decompose the settle price into *trend and noise*)
+    1. Are there any patterns - long or short term?
+3. Forecasting returns using an **ARMA model**. 
+    1. Based on the p-value, is the model a good fit?
+4. Forecasting the *exchange rate price* using an **ARIMA Model**.
+    1. What does the model forecast will happen to the Japanese Yen in the near term?
+5. Forecasting *volatility* with **GARCH**.
+    1. What does the model forecast will happen to volatility in the near term?
