@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://cutewallpaper.org/23/aesthetic-japan-street-wallpaper/15812072.jpg"
+    src="https://github.com/CamGould/Time_Series_Analysis/blob/main/Supplemental/unit-10-readme-photo.png.jpeg?raw=true"
   >
 </p>
 
