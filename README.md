@@ -22,4 +22,4 @@ This notebook contains [Times Series Forecasting](https://github.com/CamGould/Ti
 <br>
 This notebook contains [Linear Regression Forecasting](https://github.com/CamGould/Time_Series_Analysis/blob/main/Coding%20Notebooks/%5B2%5DLinear_Regression_Forecasting.ipynb)
 <br>
-This file conatins the [Raw CSV Data]()
+This file conatins the [Raw CSV Data](https://github.com/CamGould/Time_Series_Analysis/blob/main/Raw%20Data/cad_jpy.csv) provided by *University of Toronto*
