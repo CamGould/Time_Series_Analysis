@@ -23,3 +23,12 @@ This notebook contains [Times Series Forecasting](https://github.com/CamGould/Ti
 This notebook contains [Linear Regression Forecasting](https://github.com/CamGould/Time_Series_Analysis/blob/main/Coding%20Notebooks/%5B2%5DLinear_Regression_Forecasting.ipynb)
 <br>
 This file conatins the [Raw CSV Data](https://github.com/CamGould/Time_Series_Analysis/blob/main/Raw%20Data/cad_jpy.csv) provided by *University of Toronto*
+<br>
+### Project Outline and Instructions
+#### Time-Series Forecasting
+In this notebook, I will load historical CAD-JPY exchange rate data and apply time series analysis and modelling to determine if there is any predictable behaviour between the currencies.
+<br>
+The outline of this notebook will be as follows:
+<br>
+1. Plotting the **Settle price** to check for *long or short-term* patterns.
+  1. Are there any patterns, long-term and/or short.
