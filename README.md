@@ -26,7 +26,8 @@ This file conatins the [Raw CSV Data](https://github.com/CamGould/Time_Series_An
 <br>
 ### Project Outline and Instructions
 #### Time-Series Forecasting
-In this notebook, I will load historical CAD-JPY exchange rate data and apply time series analysis and modelling to determine if there is any predictable behaviour between the currencies.
+In [this notebook](https://github.com/CamGould/Time_Series_Analysis/blob/main/Coding%20Notebooks/%5B1%5DTime_Series_Forecasting.ipynb), I will load historical CAD-JPY exchange rate data and apply time series analysis and modelling to determine if there is any predictable behaviour between the currencies.
+<br>
 <br>
 The outline of this notebook will be as follows:
 <br>
@@ -40,3 +41,16 @@ The outline of this notebook will be as follows:
     1. What does the model forecast will happen to the Japanese Yen in the near term?
 5. Forecasting *volatility* with **GARCH**.
     1. What does the model forecast will happen to volatility in the near term?
+
+#### Linear Regression Forecasting
+
+In [this notebook](https://github.com/CamGould/Time_Series_Analysis/blob/main/Coding%20Notebooks/%5B2%5DLinear_Regression_Forecasting.ipynb), I will build a Scikit-Learn linear regression model to predict CAD/JPY returns with lagged CAD/JPY futures returns and categorical calendar seasonal effects (e.g., day-of-week or week-of-year seasonal effects).
+<br>
+<br>
+The outline of this notebook will be as follows:
+<br>
+1. **Data preparation** (creating returns and lagged returns, and splitting the data into training and testing data)
+2. *Fitting* a **linear regression model**.
+3. Making *predictions* using the **testing data**.
+4. **Out-of-sample** performance.
+5. **In-sample** performance.
